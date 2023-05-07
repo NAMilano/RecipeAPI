@@ -1,0 +1,2320 @@
+{
+  "results": [
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 22,
+      "gaps": "no",
+      "preparationMinutes": 15,
+      "cookingMinutes": 15,
+      "aggregateLikes": 2,
+      "healthScore": 38,
+      "creditsText": "Foodnetwork",
+      "sourceName": "Foodnetwork",
+      "pricePerServing": 625.3,
+      "id": 296687,
+      "title": "Chicken",
+      "readyInMinutes": 30,
+      "servings": 4,
+      "sourceUrl": "http://www.foodnetwork.com/recipes/mario-batali/chicken-saltimbocca-saltimbocca-di-pollo-recipe.html",
+      "image": "https://spoonacular.com/recipeImages/296687-312x231.jpeg",
+      "imageType": "jpeg",
+      "summary": "The recipe Chicken can be made <b>in approximately 30 minutes</b>. For <b>$6.25 per serving</b>, this recipe <b>covers 39%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains around <b>56g of protein</b>, <b>37g of fat</b>, and a total of <b>795 calories</b>. This recipe serves 4. This recipe from Foodnetwork requires sage leaves, marsala wine, chicken breasts, and salt and pepper. Only a few people really liked this main course. 2 people found this recipe to be delicious and satisfying. Overall, this recipe earns a <b>solid spoonacular score of 79%</b>. Try <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1218125\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1224321\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1241473\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Season the flour with salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "With a meat mallet, pound the chicken breasts to 1/4-inch thickness. Season each breast with salt and pepper and lay 1 sage leaf on each breast.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 99226,
+                  "name": "sage",
+                  "localizedName": "sage",
+                  "image": "fresh-sage.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 3846,
+                  "name": "meat tenderizer",
+                  "localizedName": "meat tenderizer",
+                  "image": "meat-mallet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Lay 1 slice prosciutto over each piece and fold in half like a book. Secure the two sides with a toothpick and dredge each breast in the seasoned flour.",
+              "ingredients": [
+                {
+                  "id": 98980,
+                  "name": "seasoned flour",
+                  "localizedName": "seasoned flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 10010123,
+                  "name": "prosciutto",
+                  "localizedName": "prosciutto",
+                  "image": "proscuitto.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404644,
+                  "name": "toothpicks",
+                  "localizedName": "toothpicks",
+                  "image": "toothpicks.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "In a heavy-bottomed pot with high sides, heat the 2 cups olive oil to 375 degrees. Make sure that you have a slotted spoon or spider close by. Working in a few batches, fry the leaves in the oil, removing with the slotted spoon after 30 seconds. Season with salt, set on a plate lined with paper towels to drain, and set aside.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404636,
+                  "name": "slotted spoon",
+                  "localizedName": "slotted spoon",
+                  "image": "slotted-spoon.jpg"
+                },
+                {
+                  "id": 405895,
+                  "name": "paper towels",
+                  "localizedName": "paper towels",
+                  "image": "paper-towels.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "In a 12 to 14-inch saute pan, heat the remaining olive oil until smoking.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Add the chicken and saute until golden brown on both sides.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Add the shallots and mushrooms and cook until the mushrooms have sweated, about 5 to 6 minutes.",
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 11677,
+                  "name": "shallot",
+                  "localizedName": "shallot",
+                  "image": "shallots.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 8,
+              "step": "Add the Marsala and chicken stock and cook over high heat until reduce by half. Swirl the butter into the pan, add the parsley and serve on 4 warmed dinner plates, topped with the fried sage leaves.",
+              "ingredients": [
+                {
+                  "id": 6172,
+                  "name": "chicken stock",
+                  "localizedName": "chicken stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 99226,
+                  "name": "sage",
+                  "localizedName": "sage",
+                  "image": "fresh-sage.png"
+                },
+                {
+                  "id": 14057,
+                  "name": "marsala",
+                  "localizedName": "marsala",
+                  "image": "red-wine.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 795.491,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 56.2487,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 37.3646,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 38.3734,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 166.38,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 9.1325,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 3.42099,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 625.388,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 7.94856,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 8,
+      "gaps": "no",
+      "preparationMinutes": 20,
+      "cookingMinutes": 25,
+      "aggregateLikes": 0,
+      "healthScore": 35,
+      "creditsText": "Foodnetwork",
+      "sourceName": "Foodnetwork",
+      "pricePerServing": 304.32,
+      "id": 379523,
+      "title": "Chicken",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodnetwork.com/recipes/chicken-club-salad-recipe.html",
+      "image": "https://spoonacular.com/recipeImages/379523-312x231.jpeg",
+      "imageType": "jpeg",
+      "summary": "Chicken requires around <b>45 minutes</b> from start to finish. This recipe makes 6 servings with <b>416 calories</b>, <b>52g of protein</b>, and <b>14g of fat</b> each. For <b>$3.04 per serving</b>, this recipe <b>covers 30%</b> of your daily requirements of vitamins and minerals. 1 person were impressed by this recipe. It works well as a main course. It is a good option if you're following a <b>dairy free</b> diet. It is brought to you by Foodnetwork. If you have olive oil, salt and pepper, cherry tomatoes, and a few other ingredients on hand, you can make it. Taking all factors into account, this recipe <b>earns a spoonacular score of 72%</b>, which is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1191579\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1243251\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1218125\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat oven to 350 degrees F.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 350.0,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "In a bowl drizzle the bread cubes with the oil, tossing them to coat evenly, and season them with salt.",
+              "ingredients": [
+                {
+                  "id": 10018064,
+                  "name": "bread cubes",
+                  "localizedName": "bread cubes",
+                  "image": "croutons.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Spread the bread cubes in a jelly-roll pan, toast them in the middle of the preheated oven oven for 10 to 15 minutes, or until they are golden, and let them cool. In a skillet cook the bacon over moderate heat, stirring, until it is crisp and transfer it with a slotted spoon to paper towels to drain. In a large bowl combine well the chicken, the tomatoes, the scallions, 2/3 of the bacon, the mayonnaise, and salt and pepper to taste, divide the salad among 6 plates, and arrange the croutons around it.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 10018064,
+                  "name": "bread cubes",
+                  "localizedName": "bread cubes",
+                  "image": "croutons.png"
+                },
+                {
+                  "id": 4025,
+                  "name": "mayonnaise",
+                  "localizedName": "mayonnaise",
+                  "image": "mayonnaise.png"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 18242,
+                  "name": "croutons",
+                  "localizedName": "croutons",
+                  "image": "croutons.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 10123,
+                  "name": "bacon",
+                  "localizedName": "bacon",
+                  "image": "raw-bacon.png"
+                },
+                {
+                  "id": 19297,
+                  "name": "jelly",
+                  "localizedName": "jelly",
+                  "image": "grape-jelly.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sandwich bread",
+                  "localizedName": "sandwich bread",
+                  "image": "white-bread.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404636,
+                  "name": "slotted spoon",
+                  "localizedName": "slotted spoon",
+                  "image": "slotted-spoon.jpg"
+                },
+                {
+                  "id": 405895,
+                  "name": "paper towels",
+                  "localizedName": "paper towels",
+                  "image": "paper-towels.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Garnish each serving with some of the remaining bacon and a basil sprig.",
+              "ingredients": [
+                {
+                  "id": 10123,
+                  "name": "bacon",
+                  "localizedName": "bacon",
+                  "image": "raw-bacon.png"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        },
+        {
+          "name": "Quick Basil Mayonnaise",
+          "steps": [
+            {
+              "number": 1,
+              "step": "2 cups loosely packed fresh basil leaves",
+              "ingredients": [
+                {
+                  "id": 2044,
+                  "name": "fresh basil",
+                  "localizedName": "fresh basil",
+                  "image": "fresh-basil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "1 cup mayonnaise",
+              "ingredients": [
+                {
+                  "id": 4025,
+                  "name": "mayonnaise",
+                  "localizedName": "mayonnaise",
+                  "image": "mayonnaise.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "4 teaspoons fresh lemon juice",
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Kosher salt and freshly ground black pepper",
+              "ingredients": [
+                {
+                  "id": 1002030,
+                  "name": "ground black pepper",
+                  "localizedName": "ground black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 1082047,
+                  "name": "kosher salt",
+                  "localizedName": "kosher salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "In a food processor or blender blend together the basil, mayonnaise, and lemon juice. Season the mayonnaise with salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                },
+                {
+                  "id": 4025,
+                  "name": "mayonnaise",
+                  "localizedName": "mayonnaise",
+                  "image": "mayonnaise.png"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 415.543,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 52.3094,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 14.2972,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 15.1906,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 145.15,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 2.4803,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 1.91204,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 619.489,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 3.76048,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 9,
+      "gaps": "no",
+      "preparationMinutes": 30,
+      "cookingMinutes": 20,
+      "aggregateLikes": 0,
+      "healthScore": 15,
+      "creditsText": "I Knead to Eat",
+      "sourceName": "I Knead to Eat",
+      "pricePerServing": 230.79,
+      "id": 1224783,
+      "title": "Chicken 65",
+      "readyInMinutes": 50,
+      "servings": 4,
+      "sourceUrl": "https://ikneadtoeat.com/chicken-65-recipe/",
+      "image": "https://spoonacular.com/recipeImages/1224783-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many hor d'oeuvre recipes, so give Chicken 65 a try. This recipe serves 4. One portion of this dish contains approximately <b>15g of protein</b>, <b>24g of fat</b>, and a total of <b>333 calories</b>. For <b>$2.31 per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up turmeric powder haldi, pepper powder, curry leaves, and a few other things to make it today. Only a few people made this recipe, and 1 would say it hit the spot. It is brought to you by I Knead to Eat. From preparation to the plate, this recipe takes around <b>50 minutes</b>. Overall, this recipe earns a <b>good spoonacular score of 63%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1189507\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1241473\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1234363\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Start by cutting the chicken breasts on a diagonal angle. This helps to ensure that the chicken remains soft even after frying. Chopped chicken tends to cook quickly and its texture toughens up.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Now marinate the chicken in ginger garlic paste, red chilli powder, yogurt, black pepper powder, and turmeric powder.",
+              "ingredients": [
+                {
+                  "id": 10093754,
+                  "name": "ginger garlic paste",
+                  "localizedName": "ginger garlic paste",
+                  "image": "ginger-garlic-paste.png"
+                },
+                {
+                  "id": 2043,
+                  "name": "turmeric",
+                  "localizedName": "turmeric",
+                  "image": "turmeric.jpg"
+                },
+                {
+                  "id": 2009,
+                  "name": "chili powder",
+                  "localizedName": "chili powder",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "black pepper",
+                  "localizedName": "black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1116,
+                  "name": "yogurt",
+                  "localizedName": "yogurt",
+                  "image": "plain-yogurt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Add the egg, corn flour and all purpose flour.",
+              "ingredients": [
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 20019,
+                  "name": "corn flour",
+                  "localizedName": "corn flour",
+                  "image": "corn-flour.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Mix well, and set aside for at least 30 minutes to 1 hour. Alternatively you can marinate the chicken overnight.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 90,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 5,
+              "step": "Heat oil in a wok or large pot for deep frying the chicken.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                },
+                {
+                  "id": 404666,
+                  "name": "wok",
+                  "localizedName": "wok",
+                  "image": "wok.png"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Fry the chicken on medium high heat in batches until the chicken is golden brown and cooked through.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Transfer to a kitchen paper lined plate and set aside.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Remove most of the oil (leaving about 3 tablespoons of oil), and on medium heat add the sliced garlic and saute until light golden.",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Add the curry leaves, garlic, green chillies, and saute for a few seconds. Now add the tomato paste and yogurt, and cook for a couple of minutes.",
+              "ingredients": [
+                {
+                  "id": 31015,
+                  "name": "green chili pepper",
+                  "localizedName": "green chili pepper",
+                  "image": "chili-peppers-green.jpg"
+                },
+                {
+                  "id": 93604,
+                  "name": "curry leaves",
+                  "localizedName": "curry leaves",
+                  "image": "curry-leaves.jpg"
+                },
+                {
+                  "id": 11887,
+                  "name": "tomato paste",
+                  "localizedName": "tomato paste",
+                  "image": "tomato-paste.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 1116,
+                  "name": "yogurt",
+                  "localizedName": "yogurt",
+                  "image": "plain-yogurt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Remove from heat, and keep covered for 5-7 minutes.",
+              "ingredients": [],
+              "equipment": [],
+              "length": {
+                "number": 7,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 11,
+              "step": "Serve immediately with white rice or chapati, or even as an appetizer.",
+              "ingredients": [
+                {
+                  "id": 10220444,
+                  "name": "white rice",
+                  "localizedName": "white rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 0,
+                  "name": "chapati",
+                  "localizedName": "chapati",
+                  "image": "pita-bread.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 333.48,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 14.7872,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 24.2256,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 11.4677,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 87.22,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 4.25654,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 3.30925,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 176.725,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 2.65762,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 6,
+      "healthScore": 6,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 115.13,
+      "id": 637876,
+      "title": "Chicken 65",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/G4XPLKBW/chicken-65-chicken-marinaded-in-traditional-indian-spices-and-deep-fried",
+      "image": "https://spoonacular.com/recipeImages/637876-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken 65 could be just the <b>gluten free</b> recipe you've been looking for. This hor d'oeuvre has <b>121 calories</b>, <b>19g of protein</b>, and <b>3g of fat</b> per serving. For <b>$1.15 per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. This recipe serves 6. Head to the store and pick up salt, chili powder, yogurt, and a few other things to make it today. 6 people have made this recipe and would make it again. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Overall, this recipe earns a <b>not so spectacular spoonacular score of 39%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1243251\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1230059\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1224321\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "gluten free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Take a large bowl mix in the ginger and garlic paste, yogurt, red chilly powder, turmeric powder, and salt.",
+              "ingredients": [
+                {
+                  "id": 2043,
+                  "name": "turmeric",
+                  "localizedName": "turmeric",
+                  "image": "turmeric.jpg"
+                },
+                {
+                  "id": 2009,
+                  "name": "chili powder",
+                  "localizedName": "chili powder",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 10111215,
+                  "name": "garlic paste",
+                  "localizedName": "garlic paste",
+                  "image": "garlic-paste.png"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 1116,
+                  "name": "yogurt",
+                  "localizedName": "yogurt",
+                  "image": "plain-yogurt.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Mix well to from smooth and thick paste, add the chicken pieces to the masala paste and  marinaded for 4 hours.",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 240,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Heat enough oil in a pan to deep fry the marinaded chicken pieces. Deep fry the chicken pieces in batches till crisp and golden color.Note: The taste of the Chicken 65 depends mainly on the amount of time it gets marinated in the masala, it is best to marinate the chicken pieces the day before.",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-65-637876",
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 120.896,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 18.9187,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 2.77924,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 3.89561,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 55.0667,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 0.785885,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 0.542542,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 700.665,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 0.788986,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 7,
+      "gaps": "no",
+      "preparationMinutes": 5,
+      "cookingMinutes": 20,
+      "aggregateLikes": 24,
+      "healthScore": 9,
+      "creditsText": "mccormick.com",
+      "sourceName": "mccormick.com",
+      "pricePerServing": 142.08,
+      "id": 74194,
+      "title": "Chicken Olé",
+      "readyInMinutes": 25,
+      "servings": 8,
+      "sourceUrl": "http://www.mccormick.com/Recipes/Main-Dish/Chicken-Ole.aspx",
+      "image": "https://spoonacular.com/recipeImages/74194-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Olé requires roughly <b>25 minutes</b> from start to finish. One serving contains <b>278 calories</b>, <b>21g of protein</b>, and <b>12g of fat</b>. For <b>$1.42 per serving</b>, you get a main course that serves 8. If you have chiles, kernel corn, tortilla chips, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free</b> diet. 24 people have tried and liked this recipe. It is brought to you by mccormick.com. With a spoonacular <b>score of 56%</b>, this dish is good. <a href=\"https://spoonacular.com/recipes/chicken-ole-casserole-490898\">Chicken Ole Casserole</a>, <a href=\"https://spoonacular.com/recipes/chicken-mole-ole-375382\">Chicken Mole Ole</a>, and <a href=\"https://spoonacular.com/recipes/chicken-mole-ole-1300143\">Chicken Mole Ole</a> are very similar to this recipe.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 278.177,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 21.3538,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 12.2555,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 19.0058,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 59.4842,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 3.91782,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 1.93929,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 618.531,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 2.14401,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": true,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 13,
+      "gaps": "no",
+      "preparationMinutes": 5,
+      "cookingMinutes": 50,
+      "aggregateLikes": 21686,
+      "healthScore": 4,
+      "creditsText": "Foodnetwork",
+      "sourceName": "Foodnetwork",
+      "pricePerServing": 108.18,
+      "id": 737543,
+      "title": "Chicken Pie",
+      "readyInMinutes": 55,
+      "servings": 6,
+      "sourceUrl": "http://www.foodnetwork.com/recipes/trisha-yearwood/chicken-pie-recipe.html",
+      "image": "https://spoonacular.com/recipeImages/737543-312x231.jpeg",
+      "imageType": "jpeg",
+      "summary": "Chicken Pie requires roughly <b>55 minutes</b> from start to finish. One serving contains <b>400 calories</b>, <b>23g of protein</b>, and <b>25g of fat</b>. For <b>$1.08 per serving</b>, this recipe <b>covers 12%</b> of your daily requirements of vitamins and minerals. This recipe serves 6. Plenty of people really liked this main course. 21686 people have tried and liked this recipe. If you have chicken, buttermilk, pepper, and a few other ingredients on hand, you can make it. It is brought to you by Foodnetwork. Taking all factors into account, this recipe <b>earns a spoonacular score of 54%</b>, which is solid. Similar recipes are <a href=\"https://spoonacular.com/recipes/dill-chicken-pot-pie-galette-a-pie-for-fall-589648\">Dill Chicken Pot Pie Galette: a Pie for Fall</a>, <a href=\"https://spoonacular.com/recipes/blackbird-pieor-chicken-leek-and-potato-pie-116477\">Blackbird Pie......or Chicken, Leek and Potato Pie!</a>, and <a href=\"https://spoonacular.com/recipes/chicken-tot-pie-tater-tot-pot-pie-1454763\">Chicken Tot Pie (Tater Tot Pot Pie)</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Watch how to make this recipe.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Preheat the oven to 425 degrees F.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 425.0,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Put the chicken in a 2-quart casserole dish.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404635,
+                  "name": "casserole dish",
+                  "localizedName": "casserole dish",
+                  "image": "casserole-dish.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Combine the broth and soup in a medium saucepan and bring the mixture to a boil.",
+              "ingredients": [
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Pour the broth mixture over the chicken.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "In a separate medium bowl, mix the flour with the pepper. Stir in the melted butter and the buttermilk.",
+              "ingredients": [
+                {
+                  "id": 1230,
+                  "name": "buttermilk",
+                  "localizedName": "buttermilk",
+                  "image": "buttermilk.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Pour this mixture over the casserole and smooth the top; do not stir.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Bake the casserole until the crust is brown and the filling beneath is hot and bubbly, 45 minutes.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 45,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 400.183,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 23.0908,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 24.5485,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 20.3659,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 102.917,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 12.6153,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 0.542167,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 838.89,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 2.62098,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 12,
+      "gaps": "no",
+      "preparationMinutes": 10,
+      "cookingMinutes": 15,
+      "aggregateLikes": 0,
+      "healthScore": 22,
+      "creditsText": "Kraft Recipes",
+      "sourceName": "Kraft Recipes",
+      "pricePerServing": 208.23,
+      "id": 279390,
+      "title": "Chicken Mac",
+      "readyInMinutes": 25,
+      "servings": 4,
+      "sourceUrl": "http://www.kraftrecipes.com/recipes/chicken-mac-60135.aspx",
+      "image": "https://spoonacular.com/recipeImages/279390-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Mac is a <b>dairy free</b> main course. One portion of this dish contains roughly <b>36g of protein</b>, <b>19g of fat</b>, and a total of <b>519 calories</b>. This recipe serves 4. For <b>$2.08 per serving</b>, this recipe <b>covers 24%</b> of your daily requirements of vitamins and minerals. This recipe is liked by 1 foodies and cooks. It is brought to you by Kraft Recipes. Head to the store and pick up canned tomatoes, chicken thighs, oil, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>25 minutes</b>. Overall, this recipe earns a <b>solid spoonacular score of 65%</b>. Try <a href=\"https://spoonacular.com/recipes/pulled-pork-mac-and-cheese-piggy-mac-1198479\">Pulled Pork Mac and Cheese {Piggy Mac}</a>, <a href=\"https://spoonacular.com/recipes/pulled-pork-mac-and-cheese-piggy-mac-586495\">Pulled Pork Mac and Cheese {Piggy Mac}</a>, and <a href=\"https://spoonacular.com/recipes/cheesy-primavera-mac-from-vegan-mac-and-cheese-1127314\">Cheesy Primavera Mac from Vegan Mac and Cheese</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat oil in medium skillet on medium-high heat.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add chicken. Cook 7 minutes on each side or until cooked through.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 7,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Meanwhile, prepare Dinner as directed on package, substituting large skillet for the saucepan.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add tomatoes, onions and parsley to prepared dinner; mix lightly. Top with chicken.",
+              "ingredients": [
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 519.38,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 35.6057,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 18.952,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 49.8923,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 107.728,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 1.45592,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 1.43117,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 1013.09,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 2.64941,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 27,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 5,
+      "healthScore": 60,
+      "creditsText": "rachaelray.com",
+      "sourceName": "rachaelray.com",
+      "pricePerServing": 449.77,
+      "id": 83890,
+      "title": "Chicken Blt",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "http://www.rachaelray.com/recipe.php?recipe_id=1750",
+      "image": "https://spoonacular.com/recipeImages/83890-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Blt is a <b>dairy free</b> recipe with 1 servings. One portion of this dish contains approximately <b>73g of protein</b>, <b>53g of fat</b>, and a total of <b>1022 calories</b>. For <b>$4.5 per serving</b>, this recipe <b>covers 52%</b> of your daily requirements of vitamins and minerals. This recipe from rachaelray.com requires plum tomato, bread, extra virgin olive oil, and salt and pepper. 5 people were impressed by this recipe. It works well as a main course. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 90%</b>, which is excellent. Similar recipes include <a href=\"https://spoonacular.com/recipes/blt-grilled-cheese-plus-10-more-blt-inspired-s-532660\">BLT Grilled Cheese plus 10 More BLT Inspired s</a>, <a href=\"https://spoonacular.com/recipes/chicken-blt-1217959\">Chicken Blt</a>, and <a href=\"https://spoonacular.com/recipes/chicken-blt-578046\">Chicken “BLT”</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 1022.36,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 72.5005,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 53.3763,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 51.0425,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 172.814,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 10.6128,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 14.9064,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 2682.33,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 9.07583,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": true,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 26,
+      "gaps": "no",
+      "preparationMinutes": 20,
+      "cookingMinutes": 120,
+      "aggregateLikes": 553,
+      "healthScore": 42,
+      "creditsText": "Kitchen Confidante",
+      "sourceName": "Kitchen Confidante",
+      "pricePerServing": 337.31,
+      "id": 496844,
+      "title": "Chicken Pho",
+      "readyInMinutes": 240,
+      "servings": 6,
+      "sourceUrl": "http://kitchenconfidante.com/le-creuset-dutch-oven-giveaway-chicken-pho-recipe",
+      "image": "https://spoonacular.com/recipeImages/496844-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>dairy free</b> recipes to your recipe box, Chicken Pho might be a recipe you should try. One portion of this dish contains approximately <b>55g of protein</b>, <b>29g of fat</b>, and a total of <b>959 calories</b>. This recipe serves 6. For <b>$3.37 per serving</b>, this recipe <b>covers 40%</b> of your daily requirements of vitamins and minerals. It works best as a main course, and is done in roughly <b>4 hours</b>. It is brought to you by Kitchen Confidante. 553 people have tried and liked this recipe. A mixture of scallions, asian chili garlic sauce and/or hoisin, fish sauce, and a handful of other ingredients are all it takes to make this recipe so tasty. Several people really liked this Vietnamese dish. Overall, this recipe earns an <b>excellent spoonacular score of 98%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/instant-pot-chicken-pho-noodle-soup-pho-ga-1100131\">Instant Pot Chicken Pho Noodle Soup (Pho Ga)</a>, <a href=\"https://spoonacular.com/recipes/chicken-pho-737537\">Chicken Pho</a>, and <a href=\"https://spoonacular.com/recipes/chicken-pho-583898\">Chicken Pho</a>.",
+      "cuisines": [
+        "Vietnamese",
+        "Asian"
+      ],
+      "dishTypes": [
+        "lunch",
+        "soup",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a large stock pot, place the chicken, onion, ginger, water, salt/fish sauce, and sugar.",
+              "ingredients": [
+                {
+                  "id": 6179,
+                  "name": "fish sauce",
+                  "localizedName": "fish sauce",
+                  "image": "asian-fish-sauce.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 1006615,
+                  "name": "stock",
+                  "localizedName": "stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Place the pot over medium-high heat and bring to a boil. Lower the heat to simmer and cook for 30 to 45 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": {
+                "number": 30,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Remove the chicken, allow to cool for a moment, but let the soup stock continue to simmer on the stove. When the chicken is cool enough to handle, debone the chicken and shred.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "stock",
+                  "localizedName": "stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404794,
+                  "name": "stove",
+                  "localizedName": "stove",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Place the shredded chicken into the refrigerator while the rest of the meal is cooking.",
+              "ingredients": [
+                {
+                  "id": 1005114,
+                  "name": "shredded chicken",
+                  "localizedName": "shredded chicken",
+                  "image": "rotisserie-chicken.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Place the bones and the skin back into the soup pot and continue to simmer for about 3 hours. Strain the soup stock into a large pot or dutch oven, add the fish sauce, and cook over high heat until the liquid reduces to roughly 12 cups. Season to taste with additional fish sauce and freshly ground black pepper, if necessary.Soak the noodles in a bowl of hot water for 30 minutes, or until soft.Bring a pot of water to boil. Salt it generously, then drop in the softened rice noodles and cook for about 3 minutes.",
+              "ingredients": [
+                {
+                  "id": 1002030,
+                  "name": "ground black pepper",
+                  "localizedName": "ground black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 20133,
+                  "name": "rice noodles",
+                  "localizedName": "rice noodles",
+                  "image": "dried-rice-noodles.jpg"
+                },
+                {
+                  "id": 6179,
+                  "name": "fish sauce",
+                  "localizedName": "fish sauce",
+                  "image": "asian-fish-sauce.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "stock",
+                  "localizedName": "stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 213,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Drain. Do the same for the mung beans, blanching them briefly.Divide the rice noodles, mung beans, and shredded chicken into bowls, and ladle chicken broth into each bowl.",
+              "ingredients": [
+                {
+                  "id": 1005114,
+                  "name": "shredded chicken",
+                  "localizedName": "shredded chicken",
+                  "image": "rotisserie-chicken.png"
+                },
+                {
+                  "id": 6194,
+                  "name": "chicken broth",
+                  "localizedName": "chicken broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 20133,
+                  "name": "rice noodles",
+                  "localizedName": "rice noodles",
+                  "image": "dried-rice-noodles.jpg"
+                },
+                {
+                  "id": 16080,
+                  "name": "mung beans",
+                  "localizedName": "mung beans",
+                  "image": "mung-beans.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404630,
+                  "name": "ladle",
+                  "localizedName": "ladle",
+                  "image": "ladle.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Garnish with scallions, basil, cilantro, jalapeño slices and chili sauce.",
+              "ingredients": [
+                {
+                  "id": 6972,
+                  "name": "chili sauce",
+                  "localizedName": "chili sauce",
+                  "image": "tomato-sauce-or-pasta-sauce.jpg"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 11165,
+                  "name": "cilantro",
+                  "localizedName": "cilantro",
+                  "image": "cilantro.png"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Serve immediately.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 959.447,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 55.4683,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 28.7475,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 102.795,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 136.078,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 8.22616,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 15.0363,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 1314.75,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 8.38289,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": true,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 25,
+      "creditsText": "Kath Eats Real Food",
+      "sourceName": "Kath Eats Real Food",
+      "pricePerServing": 328.45,
+      "id": 42569,
+      "title": "Chicken Bbq",
+      "readyInMinutes": 60,
+      "servings": 3,
+      "sourceUrl": "http://www.katheats.com/flufferbun",
+      "image": "https://spoonacular.com/recipeImages/42569-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Bbq is a <b>gluten free, dairy free, and fodmap friendly</b> recipe with 3 servings. This main course has <b>461 calories</b>, <b>66g of protein</b>, and <b>8g of fat</b> per serving. For <b>$3.28 per serving</b>, this recipe <b>covers 32%</b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. If you have mustard, lemon juice, worcestershire sauce, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>1 hour</b>. It is brought to you by Kath Eats Real Food. All things considered, we decided this recipe <b>deserves a spoonacular score of 71%</b>. This score is solid. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/bbq-chicken-pizza-a-satisfying-supper-stubbs-bbq-sauce-giveaway-579741\">BBQ Chicken Pizza: A Satisfying Supper & Stubb's BBQ Sauce Giveaway</a>, <a href=\"https://spoonacular.com/recipes/bbq-chicken-salad-with-creamy-bbq-cilantro-lime-dressing-573156\">BBQ Chicken Salad with Creamy BBQ Cilantro Lime Dressing</a>, and <a href=\"https://spoonacular.com/recipes/bbq-chicken-salad-with-creamy-bbq-cilantro-lime-dressing-568987\">BBQ Chicken Salad with Creamy BBQ Cilantro Lime Dressing</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "fodmap friendly"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 461.441,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 65.6181,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 8.15086,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 29.0967,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 193.533,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 1.75281,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 1.21833,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 2332.95,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 21.4387,
+            "unit": "g"
+          }
+        ]
+      }
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 29550
+}

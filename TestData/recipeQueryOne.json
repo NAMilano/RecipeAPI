@@ -1,0 +1,422 @@
+{
+  "results": [
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 20,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 80,
+      "creditsText": "The Tomato Tart",
+      "sourceName": "The Tomato Tart",
+      "pricePerServing": 145.37,
+      "id": 26885,
+      "title": "Pasta Pomodoro My Way",
+      "readyInMinutes": 10,
+      "servings": 4,
+      "sourceUrl": "http://www.thetomatotart.com/recipe/pasta-pomodoro-my-way/",
+      "image": "https://spoonacular.com/recipeImages/26885-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Pasta Pomodoro My Way is a main course that serves 4. One serving contains <b>703 calories</b>, <b>17g of protein</b>, and <b>29g of fat</b>. For <b>$1.45 per serving</b>, this recipe <b>covers 26%</b> of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 2 would say it hit the spot. It is a <b>rather cheap</b> recipe for fans of Mediterranean food. A mixture of thyme, spicy chilies, extra virgin olive oil, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is a good option if you're following a <b>dairy free, lacto ovo vegetarian, and vegan</b> diet. It is brought to you by The Tomato Tart. From preparation to the plate, this recipe takes around <b>10 minutes</b>. Overall, this recipe earns an <b>awesome spoonacular score of 95%</b>. Try <a href=\"https://spoonacular.com/recipes/pasta-al-pomodoro-tias-take-on-basta-pastas-recipe-139005\">Pastan Al Pomodoro (Tia's Take on Basta Pasta's Recipe)</a>, <a href=\"https://spoonacular.com/recipes/vegan-pasta-creamy-pasta-pomodoro-1705473\">Vegan Pasta : Creamy Pasta Pomodoro</a>, and <a href=\"https://spoonacular.com/recipes/velvet-pasta-aka-pasta-al-pomodoro-27424\">Velvet Pasta, Aka Pastan Al Pomodoro</a> for similar recipes.",
+      "cuisines": [
+        "Mediterranean",
+        "Italian",
+        "European"
+      ],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 703.437,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 16.8188,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 29.2289,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 87.8709,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 0.0,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 4.11885,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 6.62303,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 17.8199,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 8.86872,
+            "unit": "g"
+          }
+        ]
+      }
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 13,
+      "gaps": "no",
+      "preparationMinutes": 20,
+      "cookingMinutes": 20,
+      "aggregateLikes": 0,
+      "healthScore": 100,
+      "creditsText": "Love & Lemons",
+      "sourceName": "Love & Lemons",
+      "pricePerServing": 329.16,
+      "id": 1705473,
+      "title": "Vegan Pasta : Creamy Pasta Pomodoro",
+      "readyInMinutes": 40,
+      "servings": 4,
+      "sourceUrl": "https://www.loveandlemons.com/vegan-pasta-recipes/",
+      "image": "https://spoonacular.com/recipeImages/1705473-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Vegan Pasta : Creamy Pasta Pomodoro could satisfy your Mediterranean craving in about <b>40 minutes</b>. Watching your figure? This dairy free, lacto ovo vegetarian, and vegan recipe has <b>498 calories</b>, <b>15g of protein</b>, and <b>19g of fat</b> per serving. This recipe serves 4 and costs $3.29 per serving. 1 person has made this recipe and would make it again. A mixture of cherry tomatoes ), rigatoni, mix of spinach & arugula, and a handful of other ingredients are all it takes to make this recipe so yummy. Only a few people really liked this main course. It is brought to you by Love & Lemons. Overall, this recipe earns an <b>outstanding spoonacular score of 90%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/creamy-seafood-pasta-pomodoro-279684\">Creamy Seafood Pasta Pomodoro</a>, <a href=\"https://spoonacular.com/recipes/pasta-al-pomodoro-tias-take-on-basta-pastas-recipe-139005\">Pastan Al Pomodoro (Tia's Take on Basta Pasta's Recipe)</a>, and <a href=\"https://spoonacular.com/recipes/velvet-pasta-aka-pasta-al-pomodoro-27424\">Velvet Pasta, Aka Pastan Al Pomodoro</a>.",
+      "cuisines": [
+        "Mediterranean",
+        "Italian",
+        "European"
+      ],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "Make the sauce",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Add the marinara to a blender with the cashews, tomato paste, salt, and ¼ cup of water. Blend until smooth. Set aside until ready to use. Before serving, stir in ¼ cup hot pasta cooking water to loosen it up so that it’ll nicely coat the pasta.",
+              "ingredients": [
+                {
+                  "id": 11887,
+                  "name": "tomato paste",
+                  "localizedName": "tomato paste",
+                  "image": "tomato-paste.jpg"
+                },
+                {
+                  "id": 12087,
+                  "name": "cashews",
+                  "localizedName": "cashews",
+                  "image": "cashews.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Cook the pasta in a large pot of salted boiling water according to package directions or until al dente.",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "While the pasta cooks, heat generous drizzles of olive oil in a nonstick skillet over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add the zucchini, thyme, and generous pinches of salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 2049,
+                  "name": "thyme",
+                  "localizedName": "thyme",
+                  "image": "thyme.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Sautee, stirring occasionally, until lightly browned, about 3 minutes.",
+              "ingredients": [],
+              "equipment": [],
+              "length": {
+                "number": 3,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Add the tomatoes, reduce the heat to low, and cook for 2 to 3 more minutes or until heated through (if using fresh cherry tomatoes, cook until the tomatoes are soft).",
+              "ingredients": [
+                {
+                  "id": 10311529,
+                  "name": "cherry tomato",
+                  "localizedName": "cherry tomato",
+                  "image": "cherry-tomatoes.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 3,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 7,
+              "step": "Add the spinach and gently toss until wilted. Season to taste with more salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Scoop the pasta into individual bowls, add scoops of the creamy sauce, and toss to coat. Distribute the vegetables among the bowls and top with parsley and or basil. Season to taste and serve.",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nutrition": {
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": 497.974,
+            "unit": "kcal"
+          },
+          {
+            "name": "Protein",
+            "amount": 14.9602,
+            "unit": "g"
+          },
+          {
+            "name": "Fat",
+            "amount": 19.437,
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrates",
+            "amount": 62.8919,
+            "unit": "g"
+          },
+          {
+            "name": "Cholesterol",
+            "amount": 0.0,
+            "unit": "mg"
+          },
+          {
+            "name": "Saturated Fat",
+            "amount": 2.91845,
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "amount": 6.10608,
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": 87.799,
+            "unit": "mg"
+          },
+          {
+            "name": "Sugar",
+            "amount": 10.6557,
+            "unit": "g"
+          }
+        ]
+      }
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 2
+}
