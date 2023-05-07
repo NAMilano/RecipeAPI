@@ -45,6 +45,7 @@ public:
 		for (int i = 0; i < maxRecipes; i++) {
 			delete recipes[i];
 		}
+		maxRecipes = 0;
 		// Deletes the pointer array
 		delete[] recipes;
 	};
@@ -117,18 +118,19 @@ public:
 	}
 	// launches user web browser to display the desired recipe
 	void displayBrowser() {
-		int index;
+		string input;
 		string viewMore;
 		// gets the index number the user wishes to view
 		cout << "\nEnter the desired index number: ";
-		cin >> index;
+		getline(cin, input, '\n');
+		int index = stoi(input);
 		// check if the index requested is a valid index value
 		if (index > 0 && index <= recipeCount) {
 			// launch web browser with desired recipe - subtract one to match arrays starting from 0
 			ShellExecuteA(NULL, "open", recipes[index - 1]->sourceUrl.c_str(), NULL, NULL, SW_SHOWNORMAL);
 			// check if user wants to view more recipes from the current page
 			cout << "\nDo you wish to view another recipe (yes or no): ";
-			cin >> viewMore;
+			getline(cin, viewMore, '\n');
 			viewMore = convertLower(viewMore);
 			// if user inputs yes or y use a recursive function 
 			if (viewMore == "yes" || viewMore == "y")
@@ -144,7 +146,7 @@ public:
 	int continueMessage() {
 		int c1;
 		int c2;
-		cout << "Use the UP and DOWN arrow keys to move through the pages. Use 'v' to view a recipe. Any other input to exit the program.";
+		cout << "--Use the UP and DOWN arrow keys to move through the pages.\n--Use 'v' to view a recipe.\n--Use 'b' to add a recipe to your favorites.\n--Any other input to exit the program.\n";
 		c1 = _getch();
 		if (c1 == 224) {
 			c2 = _getch();
@@ -545,6 +547,9 @@ public:
 	const Recipe& operator[](const int i) {
 		return *getRecipe(i);
 	}
+	size_t getRecipeCount() {
+		return recipeCount;
+	}
 	// overloading operator++ to cycle all recipes up by one - first position goes to the back
 	Recipe operator++(int i) {
 		// loops through all recipes swapping them
@@ -791,6 +796,70 @@ ostream& operator<<(ostream& cout, RecipeAPI::Recipe recipe) {
 }
 
 
+template <class T, class S>
+class Favorites {
+private:
+	// total objects stored in the favs map
+	int totalFav = 0;
+	// storage off all the favorite objects
+	map<string, S> favs;
+public:
+	// deconstructor
+	~Favorites() {}
+	// constructor
+	Favorites() {}
+	// add a favorite class object to the map
+	void addFavorite(S ss) {
+		// get custom name the user wishes to store the object under
+		string name;
+		cout << "Enter the name you with to save it under: ";
+		getline(cin, name, '\n');
+		// insert into map
+		favs.insert(pair<string, S>(name, ss));
+		// update the favorite counter
+		totalFav++;
+	}
+	// writes all favorites information to a file Favorites.txt in TestData
+	void writeToFile() {
+		// current file path
+		const std::string DATA_FILE_PATH = "TestData\\";
+		// opens current Favorites.txt file or creates one
+		ofstream fav;
+		fav.open(DATA_FILE_PATH + "Favorites.txt");
+		// writes total favorites to file
+		fav << "Total Favorites: " + to_string(totalFav) << endl << endl;
+		// writes all favorites information to file
+		for (const auto& p : favs) {
+			fav << p.first << ")" << p.second << endl;
+		}
+		// close file
+		fav.close();
+
+	}
+	// checks if the user wishes to add an object to their favorites list - loops as long as they want to keep adding
+	void checkFavorite(T& r) {
+		string input;
+		cout << "\nWould you like to add a recipe to your favorites? (yes/no): ";
+		getline(cin, input, '\n');
+		do {
+			if (input == "yes" || input == "y") {
+				string index;
+				cout << "Enter the index of the recipe you wish to add: ";
+				getline(cin, index, '\n');
+				if (stoi(index) > 0 && stoi(index) <= r.getRecipeCount()) {
+					addFavorite(r[stoi(index) - 1]);
+				}
+				else
+					throw std::out_of_range("Request index is invalid");
+				cout << "Do you want to add another favorite? ";
+				getline(cin, input, '\n');
+				cout << endl;
+			}
+		} while (input == "yes" || input == "y");
+	}
+};
+
+
 
 // Tests and displays the information from TestData file recipeQueryOne.json - Uses config TESTING
 #ifdef _TESTING
@@ -798,9 +867,11 @@ int main(int argc, char* argv[]) {
 	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
 
 	RecipeAPI r;
+	Favorites<RecipeAPI, RecipeAPI::Recipe> favs;
 	r.openFile("recipeQueryOne.json");
 	r.parse();
 	r.displayStats();
+
 
 	string sorting;
 	bool ascending;
@@ -851,9 +922,11 @@ int main(int argc, char* argv[]) {
 	cout << r << endl;
 	string view;
 	cout << "(yes/no) - Do you want to view one of these recipes? ";
-	cin >> view;
+	getline(cin, view, '\n');
 	if (view == "yes")
 		r.displayBrowser();
+	favs.checkFavorite(r);
+	favs.writeToFile();
 }
 #endif
 // Tests and displays the information from TestData file recipeQueryTwo.json - Uses config TESTINGTWO
@@ -862,6 +935,7 @@ int main(int argc, char* argv[]) {
 	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
 
 	RecipeAPI r;
+	Favorites<RecipeAPI, RecipeAPI::Recipe> favs;
 	r.openFile("recipeQueryTwo.json");
 	r.parse();
 	r.displayStats();
@@ -921,9 +995,11 @@ int main(int argc, char* argv[]) {
 	cout << r << endl;
 	string view;
 	cout << "(yes/no) - Do you want to view one of these recipes? ";
-	cin >> view;
+	getline(cin, view, '\n');
 	if (view == "yes")
 		r.displayBrowser();
+	favs.checkFavorite(r);
+	favs.writeToFile();
 }
 #endif
 // Tests and displays the information from the API(spoonacular-recipe-food-nutrition-v1.p.rapidapi.com) using a custom query of the user  - Uses config Release
@@ -939,8 +1015,10 @@ int main(int argc, char* argv[]) {
 	const int ARROW_UP = 72;
 	const int ARROW_DOWN = 80;
 	const int V_KEY = 118;
+	const int B_KEY = 98;
 
 	RecipeAPI r;
+	Favorites<RecipeAPI, RecipeAPI::Recipe> favs;
 	r.intro();
 	r.getUserReq();
 	sorting = r.sortingOptions();
@@ -986,9 +1064,13 @@ int main(int argc, char* argv[]) {
 			r.displayBrowser();
 			input = r.continueMessage();
 		}
-
+		if (input == B_KEY) {
+			favs.checkFavorite(r);
+			input = r.continueMessage();
+		}
 		offset = to_string(r.returnOffset());
 		first = false;
 	} while (input == ARROW_UP || input == ARROW_DOWN);
+	favs.writeToFile();
 }
 #endif
