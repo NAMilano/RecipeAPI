@@ -1026,7 +1026,12 @@ int main(int argc, char* argv[]) {
 	r.Connect("spoonacular-recipe-food-nutrition-v1.p.rapidapi.com");
 	do {
 		offset = r.paginate(input, offset);
-		r.Get("/recipes/complexSearch", { {"rapidapi-key", "5f9980dfd3msh9198d78edccd265p1a3014jsnf19da5ef8bb0"}, {"query", r.accessMap("query")}, {"cuisine", r.accessMap("cuisine")}, {"diet", r.accessMap("diet")}, {"intolerances", r.accessMap("intolerances")}, {"includeIngredients", r.accessMap("includeIngredients")},
+
+
+
+		
+		apiKey = "" // input rapdi api key here for funcitonality
+		r.Get("/recipes/complexSearch", { {"rapidapi-key", key}, {"query", r.accessMap("query")}, {"cuisine", r.accessMap("cuisine")}, {"diet", r.accessMap("diet")}, {"intolerances", r.accessMap("intolerances")}, {"includeIngredients", r.accessMap("includeIngredients")},
 		 {"excludeIngredients", r.accessMap("excludeIngredients")}, {"type", r.accessMap("type")}, {"maxReadyTime", r.accessMap("maxReadyTime")}, {"minCarbs", r.accessMap("minCarbs")}, {"maxCarbs", r.accessMap("maxCarbs")}, {"minProtein", r.accessMap("maxProtein")}, {"minCalories", r.accessMap("minCalories")},
 		 {"maxCalories", r.accessMap("maxCalories")}, {"minFat", r.accessMap("minFat")}, {"maxFat", r.accessMap("maxFat")}, {"minCholesterol", r.accessMap("minCholesterol")}, {"maxCholesterol", r.accessMap("maxCholesterol")}, {"minSaturatedFat", r.accessMap("minSaturatedFat")}, {"maxSaturatedFat", r.accessMap("maxSaturatedFat")},
 		 {"minFiber", r.accessMap("minFiber")}, {"maxFiber", r.accessMap("maxFiber")}, {"minSodium", r.accessMap("minSodium")}, {"maxSodium", r.accessMap("maxSodium")}, {"minSugar", r.accessMap("minSugar")}, {"maxSugar", r.accessMap("maxSugar")},{"addRecipeInformation", "true"}, {"offset", offset}, {"sort", "popularity"}, {"sortDirection", "desc"}, { "number", "10" }, {"ranking", "2"} });
